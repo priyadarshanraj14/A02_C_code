@@ -1,4 +1,4 @@
-// to find the largest number given by user ? //finmish
+// to find the largest number given by user ?
 #include<stdio.h>
 int main ()
 {
